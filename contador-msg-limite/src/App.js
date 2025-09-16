@@ -1,10 +1,10 @@
 import React from 'react';
-import AvisoTemporizado from './AvisoTemporizado'; // Importando o novo componente
+import ContadorCurtidas from './ContadorCurtidas';
 
 function App() {
   return (
     <div className="App">
-      <AvisoTemporizado />  {/* Usando o componente dentro do App */}
+      <ContadorCurtidas />
     </div>
   );
 }

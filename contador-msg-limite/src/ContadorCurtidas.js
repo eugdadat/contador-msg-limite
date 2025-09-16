@@ -23,5 +23,5 @@ function ContadorCurtidas() {
     </div>
   );
 }
-//
+
 export default ContadorCurtidas;
